@@ -70,6 +70,13 @@ body {
   font-family: "Varela Round", sans-serif;
   font-size:20px;
 }
+
+@media screen and (max-width:767px){
+  .intro{
+    width:100%;
+  }
+}
+
 ::-webkit-scrollbar{
   width:0px;
 }
