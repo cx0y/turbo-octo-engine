@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Turbo-octo-engine</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+            />
+
+    </head>
+    <body>
+
+        <div class="div">
+            <div style="font-size:15px; margin-top:40px;" class="intro">
+                Turbo-octo-engine is an open-source project (<a
+                    href="https://en.wikipedia.org/wiki/Webring"
+                    target="_blank" class="link"><i>GitHub</i></a>) and nothing
+                but
+                a <a href="https://en.wikipedia.org/wiki/Webring"
+                    target="_blank" class="link"><i>webring</i></a> of GitHub
+                developer
+                <a
+                    href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme"
+                    target="_blank" class="link"><i>profiles</i></a>.
+                Our goal is to connect all 83 million
+                developers at one place.
+                But hey you can show off your own profile
+                without using any suggestion algorithms, weird analytics, or
+                search engines so Join, browse and enjoy.
+            </div>
+            <p>
+                <button class="btn material-symbols-outlined" id="leftBtn">arrow_back</button>
+                <button id="randomClick" class="btn">Browse Octo</button>
+                <button class="btn material-symbols-outlined" id="rightBtn">arrow_forward</button>
+            </p>
+            <br>
+            <hr style="width:50%;">
+            <br>
+            <input type="text" placeholder="search.." id="input", class="search"
+                spellcheck="false" autocomplete="off">
+            <div id="list_render" class="scroll"></div>
+        </div>
+        <script src="./script.js" type="module"></script>
+    </body>
+</html>
