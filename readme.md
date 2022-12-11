@@ -15,7 +15,7 @@ weird analytics, or search engines so <a href="./list">join</a>, <a href="https:
 <h6 align="center">You can have this <a href="./widget">widget</a> on your profile :)</h6>
 <br>
 
-<p align="center">
+<div align="center">
 <table>
     <tr>
         <td><a href="https://cx0y.github.io/widget/page/left.html"><img src="./widget/icon/left.svg" alt="" height="24px" width="24px" ></a></td>
@@ -23,6 +23,6 @@ weird analytics, or search engines so <a href="./list">join</a>, <a href="https:
         <td><a href="https://cx0y.github.io/widget/page/right.html"><img src="./widget/icon/right.svg" alt="" height="24px" width="24px"></a></td>
     </tr>
 </table>
-</p>
+</div>
 
 
