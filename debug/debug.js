@@ -1,7 +1,7 @@
 import { developers } from "../list/webring .mjs";
 
 const NList = [
-    
+  
 ];
 
 // duplicate-elem
