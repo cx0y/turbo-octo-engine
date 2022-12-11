@@ -1,4 +1,4 @@
-import { developers } from "./Join/join.mjs";
+import { developers } from "./list/webring .mjs";
 
 const list = (text, render) => {
   const ren = document.getElementById(render);
@@ -70,6 +70,8 @@ const search = (id, render) => {
     }
   }
 };
+
+
 
 document.getElementById("randomClick").addEventListener("click", () => {
   randomLinkClick(developers);
