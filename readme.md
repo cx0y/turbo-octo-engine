@@ -8,5 +8,5 @@ weird analytics, or search engines so <a href="./list">join</a>, <a href="cx0y.g
 </pre>
 
 <h6>You can have this badge on your profile :)</h6>
-<img src="./logo/octo.png">
+<a href="./logo"><img src="./logo/octo.png"></a>
 
