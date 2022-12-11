@@ -13,5 +13,12 @@ weird analytics, or search engines so <a href="./list">join</a>, <a href="https:
 </pre>
 
 <h6>You can have this badge on your profile :)</h6>
-<a href="./logo"><img src="./logo/octo.png"></a>
+<br>
 
+<table>
+    <tr>
+        <td><a href=""><img src="./widget/icon/left.svg" alt=""></a></td>
+        <td><a href=""><img src="./widget/icon/search.svg" alt=""></a></td>
+        <td><a href=""><img src="./widget/icon/right.svg" alt=""></a></td>
+    </tr>
+</table>
