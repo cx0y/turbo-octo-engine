@@ -2,5 +2,4 @@ const NList = [
 
   
 ];
-
 export {NList}
