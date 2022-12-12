@@ -1,8 +1,6 @@
 import { developers } from "../list/webring .mjs";
+import { NList } from "../NList.mjs";
 
-const NList = [
-  
-];
 
 // duplicate-elem
 const dx = (arr) => {
@@ -33,20 +31,19 @@ const dex = (arr1, arr2) => {
   return ex;
 };
 
-const len = (arr) =>{
-    return arr.length;
-}
+const len = (arr) => {
+  return arr.length;
+};
 
 const debugPoint = (mainArr, arr) => {
-    const dPoint = [];
-    for(let i=0; i < arr.length; i++){
-        dPoint.push(mainArr.indexOf(arr[i]));
-    }
-    return dPoint;
-}
+  const dPoint = [];
+  for (let i = 0; i < arr.length; i++) {
+    dPoint.push(mainArr.indexOf(arr[i]));
+  }
+  return dPoint;
+};
 
 console.log("DevList: ", len(developers));
 console.log("NList: ", len(NList));
 console.log("ex: ", dex(developers, NList));
-console.log("dPoint: ", debugPoint(developers,dex(developers, NList)));
-
+console.log("dPoint: ", debugPoint(developers, dex(developers, NList)));
