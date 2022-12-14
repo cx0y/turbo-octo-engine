@@ -127,6 +127,26 @@ const developers = [
   "XanatosX",
   "ossanna16",
   "sonmez-baris",
-      
+  "seinecle",
+  "Montana",
+  "MaythamAlkhailaniRevature",
+  "HowardCohl",
+  "nerfelitewar",
+  "VasanthGN",
+  "gy95",
+  "jpreynat",
+  "begin-again",
+  "RoyTinker",
+  "KnightMoises",
+  "DylanDevelops",
+  "win21H2",
+  "Supsource",
+  "Layer13w9",
+  "omar-danasoury",
+  "LumitoLuma",
+  "Vishal-raj-1",
+  "rahulkarda",
+  "Supsource",
+  
 ];
 export { developers };

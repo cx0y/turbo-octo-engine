@@ -1,5 +1,4 @@
 const NList = [
-
-  
+        
 ];
 export {NList}
